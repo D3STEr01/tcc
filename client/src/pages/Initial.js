@@ -25,6 +25,7 @@ const Initial = () => {
 
     return ( 
         <section>
+        {NaoLogado()}
         <div className="circle"></div>
         <div className="content">
           <div className="text">
